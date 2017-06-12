@@ -1,2 +1,2 @@
 # hello-world
-GitHub tutorial
+GitHub tutorial ready for CS50x
